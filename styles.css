@@ -1,0 +1,23 @@
+.body{ font-family: Arial, Helvetica, sans-serif, serif;
+    font-size: medium;
+
+} 
+.navbar {
+    margin-bottom: 20px;
+}
+
+a:hover {
+    color: #b30095; 
+    text-decoration: underline; 
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    transform: translateY(-5px); 
+    transition: all 0.3s ease; 
+}
+
